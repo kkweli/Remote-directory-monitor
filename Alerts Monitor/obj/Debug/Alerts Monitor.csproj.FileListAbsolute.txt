@@ -1,0 +1,33 @@
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.exe.config
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.exe.manifest
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.application
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.exe
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.pdb
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\obj\Debug\Alerts Monitor.csprojResolveAssemblyReference.cache
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\obj\Debug\Alerts Monitor.csproj.CoreCompileInputs.cache
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.exe.manifest
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.application
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.exe
+C:\Users\a188656\source\repos\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.pdb
+H:\repos-c#\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.exe.config
+H:\repos-c#\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.exe.manifest
+H:\repos-c#\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.application
+H:\repos-c#\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.exe
+H:\repos-c#\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.pdb
+H:\repos-c#\Alerts Monitor\Alerts Monitor\obj\Debug\Alerts Monitor.csprojResolveAssemblyReference.cache
+H:\repos-c#\Alerts Monitor\Alerts Monitor\obj\Debug\Alerts Monitor.csproj.CoreCompileInputs.cache
+H:\repos-c#\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.exe.manifest
+H:\repos-c#\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.application
+H:\repos-c#\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.exe
+H:\repos-c#\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.pdb
+H:\csharp\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.exe.config
+H:\csharp\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.exe.manifest
+H:\csharp\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.application
+H:\csharp\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.exe
+H:\csharp\Alerts Monitor\Alerts Monitor\bin\Debug\SMS Aerts Monitor.pdb
+H:\csharp\Alerts Monitor\Alerts Monitor\obj\Debug\Alerts Monitor.csprojResolveAssemblyReference.cache
+H:\csharp\Alerts Monitor\Alerts Monitor\obj\Debug\Alerts Monitor.csproj.CoreCompileInputs.cache
+H:\csharp\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.exe.manifest
+H:\csharp\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.application
+H:\csharp\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.exe
+H:\csharp\Alerts Monitor\Alerts Monitor\obj\Debug\SMS Aerts Monitor.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alerts Monitor", "Alerts Monitor\Alerts Monitor.csproj", "{B08BEA95-0EDD-4C88-BC9C-E41B266ACE5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08BEA95-0EDD-4C88-BC9C-E41B266ACE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08BEA95-0EDD-4C88-BC9C-E41B266ACE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08BEA95-0EDD-4C88-BC9C-E41B266ACE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08BEA95-0EDD-4C88-BC9C-E41B266ACE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B71344-9540-4B22-A514-1D3B23B3677B}
+	EndGlobalSection
+EndGlobal
