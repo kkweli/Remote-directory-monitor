@@ -1,2 +1,2 @@
-- email gropu change to individuals.
+- email group change to individuals.
 - Error logging smtp connections
